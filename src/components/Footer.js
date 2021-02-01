@@ -26,7 +26,7 @@ const Footer = props => (
         <dd>Berlin, Germany</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <a href="mailto:#">information@untitled.tld</a>
         </dd>
       </dl>
       <ul className="icons">
